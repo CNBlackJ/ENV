@@ -1,0 +1,3 @@
+export MONGO_HOST=39.108.246.148
+export MONGO_USER=''
+export MONGO_PASS=''
